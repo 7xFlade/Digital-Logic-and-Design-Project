@@ -1,0 +1,1 @@
+This is the repository of my project for my Digital Logic and Design course. The name of the project is Super Mario Jumper which has been made in Vivado using Verilog, and utilises an Infra-Red sensor as an input using a Basys 3 FPGA board.
