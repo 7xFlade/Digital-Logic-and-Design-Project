@@ -1,3 +1,10 @@
-This is the repository of my project for my Digital Logic and Design course. The name of the project is Super Mario Jumper which has been made in Vivado using Verilog, and utilises an Infra-Red sensor as an input using a Basys 3 FPGA board.
-The original project can be seen here https://github.com/howardlau1999/flapga-mario, and we implemented an IR sensor into it which makes Mario jump at a high signal and then he glides like he does at the low signal, fixed some bugs and overall customised it to our preferences.
+# FlaPGA Mario
+
+This is a flappy-bird like video game written in Verilog for Basys 3. This project was also submitted as a school project in my freshmen year. The report is available here: [FlaPGA_Mario.pdf](https://howardlau.me/wp-content/uploads/2018/11/FlapPGA_Mario.pdf)
+
+中文博客介绍：[FlapPGA Mario - 用 FPGA 编写游戏](https://howardlau.me/projects/flappga-mario-a-video-game-in-fpga.html)
+
+# Demo
+
+You can watch the demo here: [https://www.youtube.com/watch?v=SdphC7bAz7M](https://www.youtube.com/watch?v=SdphC7bAz7M)
 
