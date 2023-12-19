@@ -1,6 +1,6 @@
 # FlaPGA Mario
 
-This is a flappy-bird like video game written in Verilog for Basys 3. This project was also submitted as a school project in my freshmen year. 
+This is a flappy-bird like video game written in Verilog using a Basys 3 FPGA board.
 
 The report is available here: [FlaPGA_Mario.pdf](https://howardlau.me/wp-content/uploads/2018/11/FlapPGA_Mario.pdf)
 
